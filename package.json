@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eslint": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-security": "^1.4.0"
+  }
+}
