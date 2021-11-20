@@ -1,0 +1,4 @@
+node_modules
+.txt
+.env
+.\src\Config\local.js
